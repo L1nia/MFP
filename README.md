@@ -11,3 +11,6 @@
 
 # Практика № 7
 [Maze](https://github.com/L1nia/MFP/tree/Maze)
+
+# Практика № 8 
+[Maze_v3](https://github.com/L1nia/MFP/tree/Maze_v3)
