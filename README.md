@@ -8,3 +8,6 @@
 [Heat Map](https://github.com/L1nia/MFP/tree/Task_2)
 # Практика № 6
 [Water's battle](https://github.com/L1nia/MFP/tree/Water's-battle)
+
+# Практика № 7
+[Maze](https://github.com/L1nia/MFP/tree/Maze)
