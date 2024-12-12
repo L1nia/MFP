@@ -14,3 +14,9 @@
 
 # Практика № 8 
 [Maze_v3](https://github.com/L1nia/MFP/tree/Maze_v3)
+
+# Практика № 9
+[Maze_v4](https://github.com/L1nia/MFP/tree/Maze_v4)
+
+# Практика № 10
+[Race_animation](https://github.com/L1nia/MFP/tree/Race_animation)
